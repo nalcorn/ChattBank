@@ -1,0 +1,42 @@
+/*
+
+Class: CIST 2371 Introduction to Java II
+Quarter: Fall 2015
+Instructor: Daniel Cardenas
+Description:  ChattBank Lab
+Due: 02/10/2016
+@author Nicholas Alcorn
+@version 1.0
+
+By turning in this code, I Pledge:
+1. That I have completed the programming assignment independently.
+2. I have not copied the code from a student or any source.
+3. I have not given my code to any student.
+
+*/
+/* 
+    Created on : Feb 10, 2016, 5:12:04 PM
+    Author     : nicho_000
+*/
+
+body {font-family:Verdana, Arial, sans-serif;
+      background-color: #ffff99;
+}
+h1 {margin-bottom: 20px; 
+    color: #869dc7; 
+    font-family: arial, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+a  {
+    font-size: 25px;
+}
+a:link { color: #0000ff; }
+a:visited { color: #990099; }
+a:hover { background-color: #ffffff;
+          color: #33cc33; }
+.blank_row
+{
+    height: 20px !important; /* Overwrite any previous rules */
+    background-color: #FFFFFF;
+}
